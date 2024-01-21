@@ -7,8 +7,8 @@ SC132::F1
 ;Replacing 'Search' key into F2.
 SC165::F2
 
-;F3
-SC01E::F3
+;Replacing WindowKey + a into F3
+#a::Send {F3}
 
 ;Replacing WindowKey + c into F4
 #c::Send {F4}
